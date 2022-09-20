@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @iGenius-ai
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning PHP and ReactJS
-- 📫 How to reach me: Tel: +234(0)-810-847-8775. Email: e_charles@yahoo.com
+- 🌱 Proficient in PHP and JS
+- 🌱 Currently learning Python
+- 📫 How to reach me: Tel: +234(0)-810-847-8775. Email: relate2hazel@gmail.com
 
 <!---
 iGenius-ai/iGenius-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
