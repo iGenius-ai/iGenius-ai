@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iGenius-ai
-- 👀 I’m interested in programming.
-- 🌱 Proficient in PHP and JS
-- 🌱 Currently learning Python
+- 👀 I can wear many hats - or just one.
+- 🌱 Proficient in PHP, React, NodeJS and OOP
+- 🌱 Fullstack Developer
 - 📫 How to reach me: Tel: +234(0)-810-847-8775. Email: relate2hazel@gmail.com
 
 <!---
